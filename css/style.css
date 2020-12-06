@@ -202,6 +202,7 @@ a {
 
 .snack__item:hover {
     background-color: #ececec;
+    cursor: pointer;
 }
 
 .snack__item:hover .snack__with {
